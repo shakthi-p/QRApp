@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyQRApp</string>
+    <string name="hint_input">Enter text / URL here</string>
+    <string name="btn_generate">Generate QR</string>
+    <string name="btn_save">Save QR</string>
+    <string name="btn_share">Share QR</string>
+    <string name="btn_scan_camera">Scan (Camera)</string>
+    <string name="btn_scan_gallery">Scan (Gallery)</string>
+    <string name="btn_copy">Copy Text</string>
+    <string name="switch_dark">Dark Mode</string>
+    <string name="qr_image_desc">Generated QR Code</string>
+    <string name="scan_result_label">Result:</string>
+    <string name="nothing_yet">(nothing yet)</string>
+</resources>
